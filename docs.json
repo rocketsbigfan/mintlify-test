@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "mint",
   "name": "Test",
   "description": "Example Co. 是一家提供示例内容和占位符文本的公司。",
   "colors": {
